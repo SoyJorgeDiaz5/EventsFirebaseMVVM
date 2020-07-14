@@ -1,6 +1,7 @@
 package com.soyjorgediaz5.eventsfirebasemvvm.data.network
 
 import com.google.firebase.firestore.FirebaseFirestore
+import com.soyjorgediaz5.eventsfirebasemvvm.model.Event
 import com.soyjorgediaz5.eventsfirebasemvvm.vo.Resource
 import kotlinx.coroutines.tasks.await
 
